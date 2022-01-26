@@ -34,7 +34,6 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
-=======
 # This is a basic workflow to help you get started with Actions
 
 name: CI
@@ -71,4 +70,3 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
->>>>>>> 6a3e56d76fbb4dee6adb1aff238794470afd15d3

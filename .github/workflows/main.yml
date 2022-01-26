@@ -70,3 +70,5 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
+  env:
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_ACCESS_TOKEN }}
